@@ -2,5 +2,6 @@
 
 ### TODO:
 
+- Display Jobs
 - WeWorkRemotely background worker
 - README
