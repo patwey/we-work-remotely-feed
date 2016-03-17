@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'we_work_remotely_jobs'
+gem 'haml'
 
 group :development, :test do
     gem 'pry'
