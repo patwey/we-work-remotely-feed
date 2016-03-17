@@ -1,0 +1,5 @@
+%div{id: 'jobs'}
+  - @jobs.each do |job|
+    %h3= job.title
+    %p= job.description
+    %br
